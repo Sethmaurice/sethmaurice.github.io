@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>assignment1</title>
+    <link rel="stylesheet" href="assignment.css">
+</head>
+<body>
+    <h1>PRODUCT LISTING</h1>
+  <table>
+    
+    <tr>
+        <th>product name</th>
+        <th>code</th>
+        <th>quantity at hand</th>
+        <th>unit price</th>
+        <th>manufactured date</th>
+        <th>expiry date</th>
+    </tr>
+    <tr>
+        <td>Rice</td>
+        <td>0011</td>
+        <td>200t</td>
+        <td>24M</td>
+        <td>02/12/2022</td>
+        <td>30/05/2023</td>
+    </tr>
+    <tr>
+        <td>potatoes</td>
+        <td>00012</td>
+        <td>30t</td>
+        <td>13M</td>
+        <td>05/12/2022</td>
+        <td>12/12/2022</td>
+    </tr>
+    <tr>
+        <td>beans</td>
+        <td>0013</td>
+        <td>200kg</td>
+        <td>500k</td>
+        <td>05/12/2022</td>
+        <td>30/04/2022</td>
+    </tr>
+    <tr>
+        <td>maize</td>
+        <td>0014</td>
+        <td>20kg</td>
+        <td>50k</td>
+        <td>02/12/2022</td>
+        <td>12/12/2022</td>
+    </tr>
+    <tr>
+        <td>vegetables</td>
+        <td>0015</td>
+        <td>100kg</td>
+        <td>30k</td>
+        <td>02/12/2022</td>
+        <td>04/12/2022</td>
+    </tr>
+  </table>
+  <p>hello there!! <br> if you want to insert the new product into the list</p>
+  <h3><a href="project.html">PRESS HERE</a></h3>
+  <br><br><br>
+  <h3>hit the button bellow to check products informations</h3>
+  <button><a href="information.html">HERE</a></button>
+</body>
+</html>
